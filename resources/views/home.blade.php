@@ -2,23 +2,32 @@
 
 @section('content')
     <!-- Home Section -->
-{{--
-    <section id="home" class="base-section">
+    <section id="home" class="home-section">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="srrev">
-                        <h1>Scrolling Nav</h1>
-                        <p><strong>Usage Instructions:</strong> Make sure to include the <code>scrolling-nav.js</code>, <code>jquery.easing.min.js</code>, and <code>scrolling-nav.css</code> files. To make a link smooth scroll to another section on the page, give the link the <code>.page-scroll</code> class and set the link target to a corresponding ID on the page.</p>
-                        <a class="btn btn-default page-scroll" href="#about">Click Me to Scroll Down!</a>
+                        <img src="http://www.nyrs.net/images/site/default-user.jpg" class="img-circle" alt="Karl Pandacan" width="150px" height="150px">
+                        {{--<h1>Scrolling Nav</h1>--}}
+                        {{--<p><strong>Usage Instructions:</strong> Make sure to include the <code>scrolling-nav.js</code>, <code>jquery.easing.min.js</code>, and <code>scrolling-nav.css</code> files. To make a link smooth scroll to another section on the page, give the link the <code>.page-scroll</code> class and set the link target to a corresponding ID on the page.</p>--}}
+                        {{--<a class="btn btn-default page-scroll" href="#about">Click Me to Scroll Down!</a>--}}
+                        <section id="set-1">
+                            <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1a">
+                                <i class="hi-icon fa fa-twitter"></i>
+                                <i class="hi-icon fa fa-facebook"><a href="http://facebook.com/"></a></i>
+                                <i class="hi-icon fa fa-google-plus"><a href="http://google.com/"></a></i>
+                                <i class="hi-icon fa fa-github-alt"><a href="http://github.com/"></a></i>
+                                <i class="hi-icon fa fa-dribbble"><a href="http://dribbble.com/"></a></i>
+                                <i class="hi-icon fa fa-skype"><a href="http://skype.com/"></a></i>
+                            </div>
+                        </section>
                     </div>
                 </div>
             </div>
         </div>
     </section>
---}}
     <!-- About Section -->
-    <section id="about" class="base-section">
+    <section id="about" class="about-section">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -108,17 +117,6 @@
                 <div class="srrev">
                     <div class="col-lg-12">
                         <h1>Links Section</h1>
-                        <i class="fa fa-camera-retro fa-lg"></i>
-                        <section id="set-1">
-                            <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1a">
-                                <i class="hi-icon fa fa-twitter"></i>
-                                <i class="hi-icon fa fa-facebook"><a href="http://facebook.com/"></a></i>
-                                <i class="hi-icon fa fa-google-plus"><a href="http://google.com/"></a></i>
-                                <i class="hi-icon fa fa-github-alt"><a href="http://github.com/"></a></i>
-                                <i class="hi-icon fa fa-dribbble"><a href="http://dribbble.com/"></a></i>
-                                <i class="hi-icon fa fa-skype"><a href="http://skype.com/"></a></i>
-                            </div>
-                        </section>
                     </div>
                 </div>
             </div>

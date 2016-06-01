@@ -9,16 +9,16 @@
 
     <title>Karl Pandacan</title>
     <!-- Bootstrap Core CSS -->
-    <link href="{{ url('css/bootstrap.min.css') }}" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.min.css" type='text/css'>
 
     <!-- Custom CSS -->
-    <link href="{{ url('css/scrolling-nav.css') }}" rel="stylesheet">
+    <link rel="stylesheet" href="css/scrolling-nav.css" type='text/css'>
 
     <!-- Fonts -->
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel='stylesheet' type='text/css'>
+    <link rel='stylesheet' href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"  type='text/css'>
     <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700" rel='stylesheet' type='text/css'>
 
-    <link href="{{ url('css/hover-effects.css') }}" rel="stylesheet">
+    <link rel="stylesheet" href="css/hover-effects.css"  type='text/css'>
 
     {{-- <link href="{{ elixir('css/app.css') }}" rel="stylesheet"> --}}
 </head>
@@ -67,16 +67,16 @@
     </nav>
     @yield('content')
     <!-- jQuery -->
-    <script src="{{ url('js/jquery.js') }}"></script>
+    <script src="js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="{{ url('js/bootstrap.min.js') }}"></script>
+    <script src="js/bootstrap.min.js"></script>
 
     <!-- Scrolling Nav JavaScript -->
-    <script src="{{ url('js/jquery.easing.min.js') }}"></script>
-    <script src="{{ url('js/scrolling-nav.js') }}"></script>
-    <script src="{{ url('js/scrollreveal.min.js') }}"></script>
-    <script src="{{ url('js/hi-icon/modernizr.custom.js') }}"></script>
+    <script type="text/javascript" src="js/jquery.easing.min.js"></script>
+    <script type="text/javascript" src="js/scrolling-nav.js"></script>
+    <script type="text/javascript" src="js/scrollreveal.min.js"></script>
+    <script type="text/javascript" src="js/hi-icon/modernizr.custom.js"></script>
     <script>
         window.sr = ScrollReveal({delay: 200, distance: '75px'});
         sr.reveal('.srrev');
