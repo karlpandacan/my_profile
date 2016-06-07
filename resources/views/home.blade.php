@@ -7,20 +7,41 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="srrev">
-                        <img src="http://www.nyrs.net/images/site/default-user.jpg" class="img-circle" alt="Karl Pandacan" width="150px" height="150px">
+                        <div class="row">
+                            <div class="col-sm-4">
+                                <div class="pull-right">
+                                    <img src="http://www.nyrs.net/images/site/default-user.jpg" class="img-circle portrait-photo" alt="Karl Pandacan" width="180px" height="180px">
+                                </div>
+                            </div>
+                            <div class="col-sm-8">
+                                <div class="pull-left">
+                                    <p class="name-header">
+                                        Karl M. Pandacan
+                                    </p>
+                                    <p class="title-header">
+                                        PHP Developer / Web Developer
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <section id="set-1">
+                                    <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1a">
+                                        <i class="hi-icon fa fa-facebook"><a href="http://facebook.com/karl.pandacan"></a></i>
+                                        <i class="hi-icon fa fa-twitter"><a href="https://twitter.com/karlpandacan"></a></i>
+                                        <i class="hi-icon fa fa-google-plus"><a href="https://plus.google.com/+karlpandacan"></a></i>
+                                        <i class="hi-icon fa fa-github-alt"><a href="http://github.com/karlpandacan"></a></i>
+                                        <i class="hi-icon fa fa-linkedin"><a href="https://www.linkedin.com/in/karlpandacan"></a></i>
+                                        <i class="hi-icon fa fa-skype"><a href="http://skype.com/karl.pandacan"></a></i>
+                                    </div>
+                                </section>
+                            </div>
+                        </div>
+
                         {{--<h1>Scrolling Nav</h1>--}}
                         {{--<p><strong>Usage Instructions:</strong> Make sure to include the <code>scrolling-nav.js</code>, <code>jquery.easing.min.js</code>, and <code>scrolling-nav.css</code> files. To make a link smooth scroll to another section on the page, give the link the <code>.page-scroll</code> class and set the link target to a corresponding ID on the page.</p>--}}
                         {{--<a class="btn btn-default page-scroll" href="#about">Click Me to Scroll Down!</a>--}}
-                        <section id="set-1">
-                            <div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1a">
-                                <i class="hi-icon fa fa-twitter"></i>
-                                <i class="hi-icon fa fa-facebook"><a href="http://facebook.com/"></a></i>
-                                <i class="hi-icon fa fa-google-plus"><a href="http://google.com/"></a></i>
-                                <i class="hi-icon fa fa-github-alt"><a href="http://github.com/"></a></i>
-                                <i class="hi-icon fa fa-dribbble"><a href="http://dribbble.com/"></a></i>
-                                <i class="hi-icon fa fa-skype"><a href="http://skype.com/"></a></i>
-                            </div>
-                        </section>
                     </div>
                 </div>
             </div>

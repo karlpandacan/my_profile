@@ -65,3 +65,18 @@ of those sections to manage the look and feel of the site. */
     text-align: center;
     background: #128f76;
 }
+
+.name-header {
+    font-size: 350%;
+    font-family: "Lucida Console", Monaco, monospace;
+}
+
+.title-header {
+    font-size: 200%;
+    font-family: "Lucida Console", Monaco, monospace;
+}
+
+.portrait-photo {
+    border: 5px solid #ffffff;
+    box-shadow: 0 0 5px 2px #cccccc;
+}
