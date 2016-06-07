@@ -1,7 +1,7 @@
 
 <div class="col-sm-12">
     <div class="row">
-        <div class="col-sm-12">
+        <div class="col-sm-12 text-header-sub-alter">
             <h4>// Development</h4>
         </div>
     </div>
@@ -117,7 +117,7 @@
 </div>
 <div class="col-sm-12">
     <div class="row">
-        <div class="col-sm-12">
+        <div class="col-sm-12 text-header-sub-alter">
             <h4>// Tools</h4>
         </div>
     </div>

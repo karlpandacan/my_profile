@@ -39,7 +39,7 @@
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav navbar-right">
                     <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-                    <li class="hidden">
+                    <li>
                         <a class="page-scroll" href="#home">Home</a>
                     </li>
                     <li>
@@ -51,9 +51,9 @@
                     <li>
                         <a class="page-scroll" href="#experience">Experience</a>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="#education">Education</a>
-                    </li>
+                    {{--<li>--}}
+                        {{--<a class="page-scroll" href="#education">Education</a>--}}
+                    {{--</li>--}}
                     <li>
                         <a class="page-scroll" href="#hobbies">Hobbies</a>
                     </li>

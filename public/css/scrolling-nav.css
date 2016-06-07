@@ -58,25 +58,17 @@ of those sections to manage the look and feel of the site. */
     background: #CDCDCD;
 }
 
-.alter-section {
+.education-section {
     min-height: 100%;
-    padding-top: 35px;
-    text-align: center;
-    background: #6BBAA7;
+    padding-top: 65px;
+    padding-top: 65px;
+    background: #99D3DF;
 }
 
-.services-section {
-    height: 100%;
-    padding-top: 150px;
-    text-align: center;
-    background: #fff;
-}
-
-.content-section {
-    height: 100%;
-    padding-top: 150px;
-    text-align: center;
-    background: #6C648B;
+.hobbies-section {
+    min-height: 100%;
+    padding-top: 65px;
+    background: #99D3DF;
 }
 
 .name-header {
@@ -98,13 +90,21 @@ of those sections to manage the look and feel of the site. */
     background: linear-gradient(to right, #99D3DF, #CDCDCD) repeat scroll 0 0;
     /*background: radial-gradient(#128f76, #ffffff, #ffffff);*/
     border-radius: 2px;
-    text-align: center;
 }
 .text-header-alter {
     background: linear-gradient(to right, #CDCDCD, #99D3DF) repeat scroll 0 0;
     /*background: radial-gradient(#128f76, #ffffff, #ffffff);*/
     border-radius: 2px;
-    text-align: center;
+}
+.text-header-sub {
+    background: linear-gradient(to right, #ffffff, #CDCDCD) repeat scroll 0 0;
+    /*background: radial-gradient(#128f76, #ffffff, #ffffff);*/
+    border-radius: 2px;
+}
+.text-header-sub-alter {
+    background: linear-gradient(to right, #ffffff, #99D3DF) repeat scroll 0 0;
+    /*background: radial-gradient(#128f76, #ffffff, #ffffff);*/
+    border-radius: 2px;
 }
 
 /*
