@@ -12,5 +12,8 @@
 */
 
 Route::get('/', function () {
-    return view('home');
+    $date = new DateTime('1990-08-16');
+    $now = new DateTime();
+    $interval = $now->diff($date);
+    return view('home', ['age' => $interval->y] );
 });

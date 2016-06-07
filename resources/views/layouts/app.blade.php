@@ -45,19 +45,16 @@
                         <a class="page-scroll" href="#about">About Me</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#experience">Experience</a>
+                        <a class="page-scroll" href="#skills">Skills</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#skills">Skills</a>
+                        <a class="page-scroll" href="#experience">Experience</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#education">Education</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#hobbies">Hobbies</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#links">Links</a>
                     </li>
                 </ul>
             </div>

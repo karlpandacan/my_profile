@@ -5,6 +5,7 @@
  */
 
 body {
+    font-family: "Lucida Console", Monaco, monospace;
     width: 100%;
     height: 100%;
 }
@@ -35,21 +36,34 @@ of those sections to manage the look and feel of the site. */
     min-height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #128f76;
+    background: #99D3DF;
 }
 
 .about-section {
     min-height: 100%;
-    padding-top: 50px;
+    padding-top: 65px;
+    background: #CDCDCD;
+}
+
+.skills-section {
+    min-height: 100%;
+    padding-top: 65px;
+    padding-top: 65px;
+    background: #99D3DF;
+}
+
+.experience-section {
+    min-height: 100%;
+    padding-top: 65px;
     text-align: center;
-    background: #ffffff;
+    background: #CDCDCD;
 }
 
 .alter-section {
     min-height: 100%;
     padding-top: 35px;
     text-align: center;
-    background: #128f76;
+    background: #6BBAA7;
 }
 
 .services-section {
@@ -63,7 +77,7 @@ of those sections to manage the look and feel of the site. */
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #128f76;
+    background: #6C648B;
 }
 
 .name-header {
@@ -80,3 +94,29 @@ of those sections to manage the look and feel of the site. */
     border: 5px solid #ffffff;
     box-shadow: 0 0 5px 2px #cccccc;
 }
+
+.text-header {
+    background: linear-gradient(to right, #99D3DF, #CDCDCD) repeat scroll 0 0;
+    /*background: radial-gradient(#128f76, #ffffff, #ffffff);*/
+    border-radius: 2px;
+    text-align: center;
+}
+.text-header-alter {
+    background: linear-gradient(to right, #CDCDCD, #99D3DF) repeat scroll 0 0;
+    /*background: radial-gradient(#128f76, #ffffff, #ffffff);*/
+    border-radius: 2px;
+    text-align: center;
+}
+
+/*
+#6BBAA7
+#FBA100
+#6C648B
+#B6A19E
+
+
+#99D3DF
+#88BBD6
+#CDCDCD
+#E9E9E9
+*/
