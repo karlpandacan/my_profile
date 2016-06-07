@@ -13,6 +13,7 @@
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="css/scrolling-nav.css" type='text/css'>
+    <link rel="stylesheet" href="css/timeline.css" type='text/css'>
 
     <!-- Fonts -->
     <link rel='stylesheet' href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"  type='text/css'>

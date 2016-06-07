@@ -148,46 +148,7 @@
                         </div>
                         <br/>
                         <div class="row">
-                            <div class="col-sm-6">
-                                <div class="row">
-                                    <div class="col-sm-12">
-                                        <h4>// Development</h4>
-                                    </div>
-                                </div>
-                                <br/>
-                                <div class="row">
-                                    <div class="col-sm-12 text-left">
-                                        <div class="progress">
-                                            <div class="progress-bar" style="width: 90%">PHP</div>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-12 text-left">
-                                        <div class="progress">
-                                            <div class="progress-bar" style="width: 90%">MySQL</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="row">
-                                    <div class="col-sm-12">
-                                        <h4>// Tools</h4>
-                                    </div>
-                                </div>
-                                <br/>
-                                <div class="row">
-                                    <div class="col-sm-12 text-left">
-                                        <div class="progress">
-                                            <div class="progress-bar" style="width: 90%">PHP</div>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-12 text-left">
-                                        <div class="progress">
-                                            <div class="progress-bar" style="width: 90%">MySQL</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            @include('skills')
                         </div>
                     </div>
                 </div>
@@ -203,6 +164,11 @@
                     <div class="col-lg-12 text-header">
                         <h2>Experience</h2>
                     </div>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            @include('experience')
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -217,7 +183,7 @@
                         <div class="col-lg-12">
                             <h1>Education Section</h1>
                             <p>
-                                Lorem ipsum keme keme keme 48 years neuro ganders na ang valaj jutay wiz at nang shonget sa Gino makyonget emena gushung valaj otoko krung-krung at nang waz shonga chopopo bongga shonget kasi majonders kabog jowabelles majubis ang chaka valaj at nang at nang at bakit bakit pranella chipipay jongoloids kabog , keme keme kasi dites ang pamenthol na ng at nang kabog klapeypey-klapeypey na chapter na , matod valaj sa emena gushung antibiotic at ang pamenthol tungril bigalou matod bakit bakit shontis tetetet wasok effem klapeypey-klapeypey pranella quality control at nang majonders antibiotic bakit jowa kasi balaj lulu ganda lang shala wrangler shonget ang effem ng antibiotic Cholo na at ano at ang pranella shonget mabaho dites na at nang kasi pranella at bakit ng Gino ng krang-krang shonget nang majubis jutay shongaers makyonget Cholo ng pamin lorem ipsum keme keme at bakit at nang juts ng kirara at nang bakit bakit dites planggana wasok guash effem at doonek chopopo jupang-pang jongoloids ganda lang lorem ipsum keme keme kasi urky na ang sa nang , ng kirara kabog urky ng buya Cholo keme ugmas valaj nang at jowabella kabog bonggakea lorem ipsum keme keme kasi at bakit planggana keme keme pamenthol daki bella guash at ang sa ano shala boyband klapeypey-klapeypey at nang borta mahogany bakit na ang pamentos mahogany cheapangga lorem ipsum keme keme paminta biway at sa ng tungril katagalugan ng at na ang keme keme tungril jowa bakit ng at nang conalei sudems jongoloids.
+
                             </p>
                         </div>
                     </div>
@@ -235,7 +201,7 @@
                         <div class="col-lg-12">
                             <h1>Hobbies Section</h1>
                             <p>
-                                Lorem ipsum keme keme keme 48 years at at ang shonga keme antibiotic at bakit pranella kirara majonders shonga nakakalurky bakit lulu ang valaj ng fayatollah kumenis na at bakit kasi ganda lang ganders majonders , borta kasi ang wiz krung-krung tungril intonses na ang cheapangga tungril conalei na urky balaj mashumers tungril chopopo shokot at nang nang jowa at bakit ang kasi lorem ipsum keme keme sa ma-kyonget nang waz ma-kyonget shala , katagalugan at nang tetetet kemerloo at ang at ang otoko biway ng neuro lorem ipsum keme keme shongaers keme ang shonget shonget kirara sa fayatollah kumenis bakit at ang katol shala makyonget bakit kasi chopopo kasi kirara pamin kasi biway ano jupang-pang paminta pranella chipipay sa boyband mahogany shongaers 48 years shongaers kabog ano makyonget quality control Mike lorem ipsum keme keme krang-krang Gino shonga juts bakit at planggana jowabelles klapeypey-klapeypey tetetet majonders 48 years Mike juts nang ng shogal effem sa mashumers at nang valaj Cholo valaj valaj ang kasi tamalis tanders pranella na at na at tetetet jowabella borta Gino tungril kasi at bakit makyonget kabog krung-krung at nang bakit ang ugmas bokot nang at nang katagalugan chuckie at nang at ang oblation shonga-shonga tetetet shonget biway sa shonga-shonga balaj majubis jowabella tamalis , conalei chapter ng bongga neuro bakit mahogany pamentos kasi keme Mike matod pamentos krang-krang 48 years at bakit na ang kasi ano thunder chuckie ano jutay sangkatuts Gino pamin bakit sa.
+
                             </p>
                         </div>
                     </div>
