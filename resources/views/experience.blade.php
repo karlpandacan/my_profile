@@ -57,7 +57,7 @@
         <div class="timeline-badge custom"><i class="fa fa-building"></i></div>
         <div class="timeline-panel">
             <div class="timeline-heading">
-                <h3 class="timeline-title">eCopy Corporation </h3>
+                <h3 class="timeline-title">The Rosetta Group Inc. </h3>
                 <p><small class="text-muted"><i class="fa fa-calendar"></i> August 12, 2013 – September 19, 2015</small></p>
                 <p><small class="text-muted"><i class="fa fa-child"></i> Associate Software Engineer</small></p>
             </div>
